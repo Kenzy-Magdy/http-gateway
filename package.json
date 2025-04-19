@@ -1,0 +1,9 @@
+{
+  "name": "http-gateway",
+  "version": "1.0.0",
+  "main": "scripts/http-gateway.js",
+  "scripts": {
+    "start": "node scripts/http-gateway.js"
+  },
+  "dependencies": {}
+}
